@@ -2,7 +2,7 @@
 --- 
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e476q25gnrfvvvtozi6xe3dfcafg7qjn2jjm542ll9p&rid=giphy.gif&ct=g" width=250/>
+  <img src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e476q25gnrfvvvtozi6xe3dfcafg7qjn2jjm542ll9p&rid=giphy.gif&ct=g" width=450/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/luan-teixeira-5a55b8132/">
@@ -24,63 +24,80 @@ src="https://img.shields.io/github/followers/luanLTS?logo=github&style=for-the-b
 Adoro realizar trabalhos em equipe e passar para outras pessoas os meus conhecimentos que adquiri e venho adquirindo todos os dias.
 </div>
 
+### Social
 
+<div class="teste" id="social">
+   <a href="https://github.com/luanLTS" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/github.svg" width=50/>
+   </a>
+  
+  <a href="https://www.linkedin.com/in/luan-teixeira-5a55b8132/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/linkedin.svg" width=50/>
+  </a>
+  
+  <a href="https://medium.com/@luanlts13" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/medium.svg" width=50/>
+  </a>
+  
+  <a href="https://luanlts.github.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/luanLTS/luanLTS.github.io/blob/master/assets/img/logo_v2.png" width=50/>
+  </a>
+  
+</div>
 
 ## Tecnologias
 ### Front End
 <div id="techs" align="left">
   
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/html5-colored.svg" width=30/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/html5-colored.svg" width=50/>
   </a>
   
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/css3-colored.svg" width=30 />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/css3-colored.svg" width=50 />
   </a>
   
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width=30 />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width=50 />
   </a>
   
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/bootstrap-colored.svg" width=30 />
+  <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/bootstrap-colored.svg" width=50 />
   </a>
   
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/jquery-colored.svg" width=30 />
+  <a href="https://api.jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/jquery-colored.svg" width=50 />
   </a>
   
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/angularjs-colored.svg" width=30 />
+  <a href="https://angular.io/docs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/angularjs-colored.svg" width=50 />
   </a>
 </div>
 
 ### Back End
 <div id="techs" align="left">
-<a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/c-colored.svg" width=30 />
+<a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/c-colored.svg" width=50 />
   </a>
   
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg" width=30 />
+  <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg" width=50 />
   </a>
   
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/express-colored.svg" width=30 />
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/express-colored.svg" width=50 />
   </a>
   
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mysql-colored.svg" width=30 />
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mysql-colored.svg" width=50 />
   </a>
   
-  
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width=30 />
+  <a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width=50 />
   </a>
   
-  
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=30 />
+  <a href="https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#spring-web" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=50 />
   </a>
  
 <div>
