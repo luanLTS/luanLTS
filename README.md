@@ -1,129 +1,35 @@
 
---- 
+# Sobre Mim 👋
 
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e476q25gnrfvvvtozi6xe3dfcafg7qjn2jjm542ll9p&rid=giphy.gif&ct=g" width=450/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/luan-teixeira-5a55b8132/">
-    <img style="display: inline-block;" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  <a>
-  <a href="https://www.github.com/luanLTS" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/luanLTS?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a" /></a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=luanLTS&style=flat-square&color=blue"/>
-</div>
+Sou Luan Teixeira, um apaixonado por desenvolvimento web e tecnologia. Tecnólogo em Análise e Desenvolvimento de Sistemas pela Fatec Ipiranga, aprendi a utilizar diversas ferramentas e linguagens para criar soluções web eficientes e inovadoras. 
 
---- 
+Desde julho de 2023, trabalho como analista júnior de sistemas na Fundac, uma fundação que atua na área de assistência social e educação. Lá, desenvolvo sistemas web utilizando Java EE, Spring MVC, Spring Boot, Thymeleaf, JPA, JSTL, Expression Language, JSP, JavaScript, Apache Tomcat, MySQL, Bootstrap, JQuery, NodeJS e Angular. Além disso, realizo extração de dados e controle de versionamento dos sistemas utilizando Git. Anteriormente, fui estagiário de desenvolvimento na Prefeitura de São Paulo, onde tive o primeiro contato com essas tecnologias.
 
+Meu objetivo é continuar aprimorando minhas habilidades e conhecimentos em desenvolvimento web, participando de projetos desafiadores e colaborativos, que gerem impacto social e valor para os clientes e usuários. Adoro trabalhar em equipe e compartilhar meus conhecimentos com outras pessoas.
 
+- 🔭 Atualmente trabalho como Analista de Sistema JR
+- 🌱 Atualmente estou estudando Java, Springboot e Docker
 
-## Sobre mim <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width=30 />  
-<div id="body" align="justify">
-  Oi, meu nome é Luan Teixeira, sou estudante no quinto semestre do curso de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia do Ipiranga. Conheci o mundo da programação em 2019, quando passei para o curso técnico de Desenvolvimento de Sistemas na ETEC Professor Aprígio Gonzaga, dentre dezenas de matérias que tive em toda a duração do curso, a que mais me identifiquei foi Desenvolvimento Web, aréa onde foco os estudos desde então. <br />
-Adoro realizar trabalhos em equipe e passar para outras pessoas os meus conhecimentos que adquiri e venho adquirindo todos os dias.
-</div>
-
-### Social
-
-<div class="teste" id="social">
-   <a href="https://github.com/luanLTS" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/github.svg" width=50/>
-   </a>
-  
-  <a href="https://www.linkedin.com/in/luan-teixeira-5a55b8132/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/linkedin.svg" width=50/>
-  </a>
-  
-  <a href="https://medium.com/@luanlts13" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/medium.svg" width=50/>
-  </a>
-  
-  <a href="https://luanlts.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/luanLTS/luanLTS.github.io/blob/master/assets/img/logo_v2.png" width=50/>
-  </a>
-  
-</div>
-
-## Tecnologias
+# Tecnologias
 ### Front End
-<div id="techs" align="left">
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/html5-colored.svg" width=50/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/css3-colored.svg" width=50 />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/javascript-colored.svg" width=50 />
-  </a>
-  
-  <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/bootstrap-colored.svg" width=50 />
-  </a>
-  
-  <a href="https://api.jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/jquery-colored.svg" width=50 />
-  </a>
-  
-  <a href="https://angular.io/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/angularjs-colored.svg" width=50 />
-  </a>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Back End
-<div id="techs" align="left">
-<a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/c-colored.svg" width=50 />
-  </a>
-  
-  <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/java-colored.svg" width=50 />
-  </a>
-  
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/express-colored.svg" width=50 />
-  </a>
-  
-  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/mysql-colored.svg" width=50 />
-  </a>
-  
-  <a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width=50 />
-  </a>
-  
-  <a href="https://docs.spring.io/spring-framework/docs/current/reference/html/web.html#spring-web" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=50 />
-  </a>
- 
-<div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+### Ferramentas
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 	![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### Sistema Operacional
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0) ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
+# Minhas Estatísticas
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luanLTS&theme=bear&background=1e1e1e&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luanLTS&theme=bear&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
-## Estatísticas 
-<div id="stats" align=center>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luanLTS&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luanLTS&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanLTS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
-<!--
-**luanLTS/luanLTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Onde me achar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanteixeirasilva/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luanLTS) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:luanlts@outlook.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://luanlts.github.io)
